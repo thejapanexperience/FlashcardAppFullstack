@@ -1,0 +1,13 @@
+#card {
+  background-color: purple;
+  height = 800px;
+  width = 500px;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+}
+
+#splashImage {
+  height: 500px;
+  text-align: center;
+}
